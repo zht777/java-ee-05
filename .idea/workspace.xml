@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dd5b40e-9257-44ae-876e-68f6a925acf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../chess/chess.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaEE_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaEE_01_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/javaEE-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/jdbc/HomeworkJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/jdbc/StudentHomeworkJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/jdbc/StudentJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/module/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/module/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/module/StudentHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/AddHomeworkServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/AddStudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/HomeworkServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/StudentHomeworkServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/SubmitHomeworkServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/AddStudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/AddhomeworkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/HomeworkListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/StudentHomeworkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/SubmitHomeworkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/jdbc/HomeworkJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/jdbc/StudentHomeworkJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/jdbc/StudentJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/model/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/model/StudentHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/resources/app-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/resources/app-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/Chaxun_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/Chaxun_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/add_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/add_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/submit_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/teacher.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/AddStudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/AddhomeworkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/HomeworkListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/StudentHomeworkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/SubmitHomeworkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/jdbc/DatabasePool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/jdbc/HomeworkJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/jdbc/StudentHomeworkJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/jdbc/StudentJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/model/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/model/StudentHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/resources/app-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/resources/app-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/Chaxun_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/Chaxun_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/WEB-INF/app-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/WEB-INF/app-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/add_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/add_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/submit_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/teacher.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javeEE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/.idea/artifacts/student_system_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/.idea/libraries/mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/.idea/libraries/mysql_connector_java_8_0_191.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/Chaxun_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/Chaxun_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/add_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/add_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/submit_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/teacher.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/.idea/artifacts/student_system_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student system/.idea/artifacts/student_system_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/.idea/junitgenerator-prj-settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student system/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/META-INF/student system.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/jdbc/HomeworkJdbc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/jdbc/StudentHomeworkJdbc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/jdbc/StudentJdbc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/module/Homework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/module/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/module/StudentHomework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/AddHomeworkServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/AddStudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/HomeworkServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/StudentHomeworkServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/SubmitHomeworkServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/jdbc/HomeworkJdbc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/jdbc/StudentHomeworkJdbc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/jdbc/StudentJdbc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/module/Homework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/module/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/module/StudentHomework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/AddHomeworkServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/AddStudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/HomeworkServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/StudentHomeworkServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/StudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/SubmitHomeworkServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/student system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../student system/student system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/Chaxun_homework.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/Chaxun_student.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/WEB-INF/lib/mysql-connector-java-8.0.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/add_homework.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/add_student.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/homework.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/student.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/submit_homework.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student system/web/teacher.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\javaEE\javeEE\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZcD6FW6xha1lUhgE8lu9AzspVk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaEE\javeEE\javaee-aop\src\main\resources" />
+      <recent name="D:\javaEE\javeEE\javaee-aop\src\main\java" />
+      <recent name="D:\javaEE\javeEE\javaee-aop\src\main\webapp" />
+      <recent name="D:\javaEE\javeEE\javaee-aop\src\main\webapp\WEB-INF" />
+      <recent name="D:\javaEE\javeEE\javaee-springmvc\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JavaEE-01-out">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JavaEE_01_out" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_javeEE_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57518" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaEE-01-out" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dd5b40e-9257-44ae-876e-68f6a925acf6" name="Default Changelist" comment="" />
+      <created>1585129311192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585129311192</updated>
+      <workItem from="1585129314201" duration="4935000" />
+      <workItem from="1587563571410" duration="9574000" />
+      <workItem from="1587576783828" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="101" key="#Project_Structure" timestamp="1587574113640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="387" y="101" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587574113640" />
+    <state x="250" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585133967512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585133967512" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587574281733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587574281733" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1587574276165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587574276165" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1587576752666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587576752666" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1587576752666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587576752666" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1587576752666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587576752666" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1587576752666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587576752666" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1587576417582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1587576417582" />
+    <state x="204" y="57" key="new project wizard" timestamp="1587573450626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="204" y="57" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587573450626" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1587574258341">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587574258341" />
+  </component>
+</project>
