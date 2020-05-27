@@ -1,170 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaEE-01-out" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8dd5b40e-9257-44ae-876e-68f6a925acf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../chess/chess.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaEE_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaEE_01_out.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/db.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/javaEE-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/jdbc/HomeworkJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/jdbc/StudentHomeworkJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/jdbc/StudentJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/module/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/module/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/module/StudentHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/AddHomeworkServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/AddStudentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/HomeworkServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/StudentHomeworkServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/StudentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaEE-01/src/main/java/org/example/JavaEE01/servlet/SubmitHomeworkServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/AddStudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/AddhomeworkController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/HomeworkListController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/StudentHomeworkController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/Controller/SubmitHomeworkController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/jdbc/HomeworkJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/jdbc/StudentHomeworkJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/jdbc/StudentJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/model/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/java/model/StudentHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/resources/app-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/resources/app-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/Chaxun_homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/Chaxun_student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/add_homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/add_student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/submit_homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-aop/src/main/webapp/teacher.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/AddStudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/AddhomeworkController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/HomeworkListController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/StudentHomeworkController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/Controller/SubmitHomeworkController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/jdbc/DatabasePool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/jdbc/HomeworkJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/jdbc/StudentHomeworkJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/jdbc/StudentJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/model/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/java/model/StudentHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/resources/app-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/resources/app-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/Chaxun_homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/Chaxun_student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/WEB-INF/app-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/WEB-INF/app-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/add_homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/add_student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/submit_homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaee-springmvc/src/main/webapp/teacher.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javeEE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/.idea/artifacts/student_system_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/.idea/libraries/mysql_connector_java_8_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/.idea/libraries/mysql_connector_java_8_0_191.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/Chaxun_homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/Chaxun_student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/add_homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/add_student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/submit_homework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student system/src/main/webapp/teacher.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/.idea/artifacts/student_system_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student system/.idea/artifacts/student_system_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/.idea/junitgenerator-prj-settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student system/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student system/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/META-INF/student system.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/jdbc/HomeworkJdbc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/jdbc/StudentHomeworkJdbc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/jdbc/StudentJdbc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/module/Homework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/module/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/module/StudentHomework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/AddHomeworkServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/AddStudentServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/HomeworkServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/StudentHomeworkServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/StudentServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/out/production/student system/servlet/SubmitHomeworkServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/jdbc/HomeworkJdbc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/jdbc/StudentHomeworkJdbc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/jdbc/StudentJdbc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/module/Homework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/module/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/module/StudentHomework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/AddHomeworkServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/AddStudentServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/HomeworkServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/StudentHomeworkServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/StudentServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/src/servlet/SubmitHomeworkServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/student system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../student system/student system.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/Chaxun_homework.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/Chaxun_student.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/WEB-INF/lib/mysql-connector-java-8.0.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/add_homework.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/add_student.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/homework.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/student.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/submit_homework.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/success.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student system/web/teacher.jsp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javaEE_mybatis_Webapp_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javaEE_mybatis_Webapp_exploded2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javaEE_mybatis_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/javeEE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/javaEE-mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/java/Controller/ApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/java/Service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/java/Service/ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/java/dao/HomeworkDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/java/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/java/dao/StudentHomeworkDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/java/model/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/java/model/StudentHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/resources/mapper/StudentDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/resources/mapper/StudentHomeworkDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/resources/mapper/homeworkDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/Chaxun_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/Chaxun_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/add_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/add_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/submit_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEE-mybatis/src/main/web/teacher.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaEE-01/javaEE-01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springmvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaee-springmvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Arquillian JUnit Test Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -172,6 +91,13 @@
         <option value="D:\javaEE\javeEE\.idea" />
       </set>
     </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -195,21 +121,41 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaEE-mybatis/src/main/web" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.32413793" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Controller" />
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Service" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\javeEE\javaEE-mybatis\src\main" />
+      <recent name="D:\code\javeEE\javaEE-mybatis\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\javeEE\javaEE-mybatis\src\main\web" />
+      <recent name="D:\code\javeEE\javaEE-mybatis\src\main\resources" />
+      <recent name="D:\code\javeEE\javaEE-mybatis\src\main\resources\mapper" />
+      <recent name="D:\code\javeEE\javaEE-mybatis\src\main\java" />
       <recent name="D:\javaEE\javeEE\javaee-aop\src\main\resources" />
-      <recent name="D:\javaEE\javeEE\javaee-aop\src\main\java" />
-      <recent name="D:\javaEE\javeEE\javaee-aop\src\main\webapp" />
-      <recent name="D:\javaEE\javeEE\javaee-aop\src\main\webapp\WEB-INF" />
-      <recent name="D:\javaEE\javeEE\javaee-springmvc\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="Controller" />
     </key>
   </component>
   <component name="RunManager">
@@ -291,7 +237,12 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -311,6 +262,10 @@
       <workItem from="1585129314201" duration="4935000" />
       <workItem from="1587563571410" duration="9574000" />
       <workItem from="1587576783828" duration="28000" />
+      <workItem from="1590132231578" duration="2061000" />
+      <workItem from="1590135711229" duration="2278000" />
+      <workItem from="1590566555048" duration="5416000" />
+      <workItem from="1590579086342" duration="7665000" />
     </task>
     <servers />
   </component>
@@ -321,49 +276,101 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="387" y="101" key="#Project_Structure" timestamp="1587574113640">
+    <state x="387" y="101" key="#Project_Structure" timestamp="1590592633992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="387" y="101" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587574113640" />
+    <state x="387" y="101" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590592633992" />
     <state x="250" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585133967512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="250" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585133967512" />
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587574281733">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1590592912147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587574281733" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1587574276165">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590592912147" />
+    <state x="498" y="328" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1590580230935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587574276165" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1587576752666">
+    <state x="498" y="328" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824@0.0.1536.824" timestamp="1590580230935" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590593237325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587576752666" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1587576752666">
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590593237325" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1590593231221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587576752666" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1587576752666">
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590593231221" />
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1590578322125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587576752666" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1587576752666">
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590578322125" />
+    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1590578322125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587576752666" />
-    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1587576417582">
+    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590578322125" />
+    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1590578322125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1587576417582" />
-    <state x="204" y="57" key="new project wizard" timestamp="1587573450626">
+    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590578322125" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1590578322125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="204" y="57" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587573450626" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1587574258341">
+    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590578322125" />
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1590578322126">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587574258341" />
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590578322126" />
+    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1590578322126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590578322126" />
+    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1590578322126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590578322126" />
+    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1590578322126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590578322126" />
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom" timestamp="1590578322126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590578322126" />
+    <state width="1024" height="210" key="GridCell.Tab.2.center" timestamp="1590578322126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1590578322126" />
+    <state width="1024" height="210" key="GridCell.Tab.2.left" timestamp="1590578322126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1590578322126" />
+    <state width="1024" height="210" key="GridCell.Tab.2.right" timestamp="1590578322126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1590578322126" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1590588257961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1590588257961" />
+    <state x="190" y="0" key="SettingsEditor" timestamp="1590580232266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590580232266" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1590579086337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590579086337" />
+    <state x="540" y="130" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590588140201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="130" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1590588140201" />
+    <state x="204" y="0" key="new project wizard" timestamp="1590579779603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="204" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590579779603" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590590577338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590590577338" />
   </component>
 </project>

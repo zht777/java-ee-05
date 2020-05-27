@@ -6,15 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="core" />
-        <module name="db" />
-        <module name="javaEE-01" />
+        <module name="javaEE-mybatis" />
         <module name="javaee-springmvc" />
+        <module name="core" />
+        <module name="javaEE-01" />
         <module name="javaee-aop" />
+        <module name="db" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="javaEE-02" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>

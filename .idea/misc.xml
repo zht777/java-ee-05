@@ -10,6 +10,10 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/javaee-aop" />
     <file type="web" url="file://$PROJECT_DIR$/javaee-springmvc" />
+    <type id="Spring" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

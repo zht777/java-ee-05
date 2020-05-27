@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="org.example.spring.mvc.dao.StudentHomeworkDao">
+
+
+    <select id="selectAll" resultType="org.example.spring.mvc.model.StudentHomework">
+        SELECT * FROM s_student_homework
+    </select>
+
+    <insert id="submit" parameterType="StudentHomework">
+      INSERT INTO `s_student_homework(`id`, `student_id`, `homework_id`, `homework_title`, `homework_content`, `create_time`) VALUES('"+sh.getId()+"','"+sh.getStudentId()+','+sh.getHomeworkId()+','+sh.getHomeworkTitle()+"','"+sh.getHomeworkContent()+','+sh.getCreateTime()+"')
+    </insert>
+</mapper>
